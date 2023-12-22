@@ -2,7 +2,7 @@
 // HandlerBuilder
 package inspector
 
-import "handlerinspector/pkg/builder"
+import "github.com/dodevops/golang-handlerinspector/pkg/builder"
 
 // The Inspector inspects the given HandlerBuilder instance and answers questions about its usage
 type Inspector struct {
